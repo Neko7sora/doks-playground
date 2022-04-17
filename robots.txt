@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neko7sora.is-a.dev/doks-playground/sitemap.xml
