@@ -11,7 +11,7 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "en_US"
+ogLocale = "ja_JP"
 domainTLD = "neko7sora.is-a.dev"
 titleHome = "Doks Theme"
 
@@ -85,7 +85,6 @@ lastMod = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  multilingualMode = false
   docsVersioning = false
   fullWidth = false
 
